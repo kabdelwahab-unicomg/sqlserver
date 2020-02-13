@@ -1,0 +1,6 @@
+{
+  "ScanningServiceURL": "http://localhost:8080/",
+  "EncryptSecretKey": "123456789",
+  "ApiURL": "http://146.148.74.109:5000/api/",
+  "ApiURLShowImages": "http://146.148.74.109/"
+}
